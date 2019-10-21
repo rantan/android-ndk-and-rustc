@@ -1,0 +1,4 @@
+c-example-project/target
+c-example-project/**/*.rs.bk
+cpp-example-project/target
+cpp-example-project/**/*.rs.bk
